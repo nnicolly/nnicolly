@@ -6,7 +6,7 @@
 
 #
 
-I'm a Systems Analysis and Development student with a growing focus on **backend development**. I enjoy learning how applications work behind the scenes, building projects, working with APIs and databases, and improving my skills through hands-on experience.
+I'm a Systems Analysis and Development student with a growing focus on **backend development**. I enjoy learning how applications work behind the scenes, building projects, working with rest APIs and databases, and improving my skills through hands-on experience.
 
 #
 
